@@ -4,7 +4,7 @@ import discord
 from discord.ext import commands
 
 
-token = "NTI5NzgxOTg4ODQ5MDkwNTgy.Dw11iA.swDAmzJmV4i77wfD5yf_45Dq_Ps"
+token = ""
 prefix = ";"
 bot = commands.Bot(command_prefix=prefix, case_insensitive=True)
 
